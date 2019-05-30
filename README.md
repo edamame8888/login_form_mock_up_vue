@@ -1,6 +1,6 @@
 # kanban-app
 
-> A Kanban Application
+Vueの勉強のために作ったログインフォームのモックアップ
 
 ## Build Setup
 
